@@ -9,11 +9,11 @@ You will need to run live-server to see unit tests reporting your status.
 
 When you have completed the challenges please follow these instructions:
 
-Open the terminal to where this assessment is
-Add and commit all of your completed code.
-Type <code>git checkout -b gh-pages </code>
-Type <code>git push -u origin gh-pages</code>
-Find your account name on github and insert it into this url <code>http://[YourGithubAccountName].github.io/javascript-basic-assessment</code>
+Open the terminal to where this assessment is<br>
+Add and commit all of your completed code.<br>
+Type <code>git checkout -b gh-pages </code><br>
+Type <code>git push -u origin gh-pages</code><br>
+Find your account name on github and insert it into this url <code>http://[YourGithubAccountName].github.io/javascript-basic-assessment</code><br>
 Open that url to make sure it works, then send that url to your assigned mentor!
 
 <h1>Contributions</h1>
