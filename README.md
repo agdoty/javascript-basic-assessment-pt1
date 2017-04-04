@@ -3,7 +3,7 @@ Show understanding of core Javascript Concepts
 
 <h1>Directions </h1>
 
-Fork this repo, clone your fork, then complete the challenges in test.js and.
+Fork this repo, clone your fork, then complete the challenges in test.js and written_portion.txt.
 
 You will need to run live-server to see unit tests reporting your status.
 
