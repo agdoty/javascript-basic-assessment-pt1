@@ -2,10 +2,17 @@
 // Num. 1  //////////////////////////////////////////////////////////
 // Create a variable called hello and assign it the string 'world'.//
 /////////////////////////////////////////////////////////////////////
-
+ var hello = "world";
 /////////////
 // Num. 2  //////////////////////////////////////////////////////////
 // Create a function called isCool that takes in a string          //
 // and checks to see if the string is equal to 'cool'. If the      //
 // string is equal to 'cool', return true, if not, return false    //
 /////////////////////////////////////////////////////////////////////
+
+function isCool(str){
+  if(str === "cool"){
+    return true;
+  }
+  return false;
+}
