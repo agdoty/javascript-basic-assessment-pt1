@@ -11,7 +11,7 @@ When you have completed the challenges please follow these instructions:
 
 Open the terminal to where this assessment is
 Add and commit all of your completed code.
-Type git checkout -b gh-pages
+Type <code>git checkout -b gh-pages </code>
 Type git push -u origin gh-pages
 Find your account name on github and insert it into this url http://[YourGithubAccountName].github.io/javascript-basic-assessment
 Open that url to make sure it works, then send that url to your assigned mentor!
